@@ -1,11 +1,11 @@
 body {
-	background-color: #3b5998;
+	background-color: #000;
 }
 
 #clock {
 	background-color: black;
-	color: limegreen;
 	margin: 0 auto;
+	color: limegreen;	
 	text-align: center;
 	width: 30%;
 	min-width: 350px;
