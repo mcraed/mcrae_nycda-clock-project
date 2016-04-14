@@ -36,6 +36,8 @@ $(document).ready(function(){
 
 	}, 300000);
 
+//randomly changes h1 tag every hour
+
 	var titleChange = setInterval(function(){
 		var rand = Math.floor(Math.random() * color.length);
 
